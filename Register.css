@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+}
+
+/* form {text-align: center} */
+/* #firstname{
+    border: 5px solid green;
+    border-radius: 10px;
+    border-right: 100px;
+} */
+#form-registration
+{ 
+justify-content: center;
+    padding: 4rm;
+    position: relative;
+    margin: 10px;
+    border: royalblue;
+    display: inline-table;
+    align-content: center;
+}
+.firstname
+{
+    width: 320px;
+    border: 2px solid green;
+    border-radius: 10px;
+    border-width: 5px;
+    margin-bottom: 15px;
+}
+.lastname 
+{
+    width: 322px;
+    margin-right: 50px;
+    border: 2px solid green;
+    border-radius: 10px;
+    border-width: 5px;
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+.email{
+    width: 320px;
+    margin-left: 39px;
+    border: 0.5px solid rgb(0, 128, 0, 0.5);
+    border-radius: 10px;
+    border-width: 5px;
+    margin-bottom: 20px;
+}
+.email:hover{
+    color: rgba(0,0,128,0.5);
+}
+.dob{
+    width: 320px;
+    border: 2em solid green;
+    border-radius: 10px;
+    border-width: 5px;
+    margin-bottom: 20px;
+}
